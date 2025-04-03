@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": 1,
+    "fromUserId": 1,
+    "toUserId": 2,
+    "amount": 50000,
+    "status": "success",
+    "timestamp": "2025-04-03T04:17:35.864Z"
+  }
+]

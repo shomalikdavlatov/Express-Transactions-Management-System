@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": 1,
+    "balance": 250000,
+    "usedLimit": 50000,
+    "monthlyLimit": 2000000
+  },
+  {
+    "id": 2,
+    "balance": 100000,
+    "monthlyLimit": 800000,
+    "usedLimit": 0
+  }
+]
